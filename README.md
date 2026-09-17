@@ -2,13 +2,31 @@
 
 Deconstruct complex subsystems by isolating inputs, gears, transformations, and outputs.
 
+[![Kirby Fitzpatrick Collection](https://img.shields.io/badge/Kirby_Fitzpatrick-Writers_Collection-blue?style=flat-square&logo=github)](https://github.com/markkirby125/kirby-fitzpatrick-writers-collection)
+[![Kirby Skills Collection](https://img.shields.io/badge/Kirby_Skills-Collection-purple?style=flat-square&logo=github)](https://github.com/markkirby125/kirby-skills-collection)
+
 ---
+
+## Repo Details
+
+* **Repository**: [https://github.com/markkirby125/kirby-fitzpatrick-analytical-watchmaker-explainer](https://github.com/markkirby125/kirby-fitzpatrick-analytical-watchmaker-explainer)
+* **Parent Collection**: [kirby-fitzpatrick-writers-collection](https://github.com/markkirby125/kirby-fitzpatrick-writers-collection)
+* **Master Directory**: [kirby-skills-collection](https://github.com/markkirby125/kirby-skills-collection)
+* **Category**: Code Walkthroughs
+* **Framework Author**: William Fitzpatrick
+* **YouTube Channel**: [William Fitzpatrick | Writer Science](https://www.youtube.com/@WriterScience)
+* **Source Lecture**: "20 Years of Writing Advice in 52 mins"
+* **Direct Video URL**: https://www.youtube.com/watch?v=G-Sl0-PZv2Q
+
+---
+
 ## Attribution & Provenance
 
 * **Original Framework Author**: William Fitzpatrick
 * **YouTube Channel**: [William Fitzpatrick | Writer Science](https://www.youtube.com/@WriterScience)
 * **Source Lecture**: "20 Years of Writing Advice in 52 mins"
 * **Direct Video URL**: https://www.youtube.com/watch?v=G-Sl0-PZv2Q
+
 ---
 
 ## Overview
