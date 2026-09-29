@@ -1,6 +1,6 @@
 ---
 name: kirby-fitzpatrick-analytical-watchmaker-explainer
-description: "Deconstruct complex subsystems by isolating inputs, gears, transformations, and outputs." Use this when working on fitzpatrick analytical watchmaker explainer.
+description: "Deconstruct complex subsystems by isolating inputs, gears, transformations, and outputs. Use this when working on fitzpatrick analytical watchmaker explainer."
 category: "Writing & Communication"
 triggers:
   - "analytical watchmaker"
